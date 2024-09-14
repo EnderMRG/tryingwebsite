@@ -18,6 +18,7 @@ export default function Home() {
       <HeroSection></HeroSection>
       {/* <FeaturedProducts></FeaturedProducts> */}
       <WhyChooseUs></WhyChooseUs>
+      <Page></Page>
       <Feedback></Feedback>
       {/* <Creator></Creator> */}
       <Footer></Footer>
