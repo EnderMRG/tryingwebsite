@@ -1,0 +1,49 @@
+{
+    "items": [
+      {
+        "id": "1",
+        "title": "Apples",
+        "slug": "apples",
+        "description": "Fresh and juicy organic apples, perfect for a healthy snack.",
+        "price": 60,
+        "isFeatured": true,
+        "image": "/shirt/women shirt.webp"
+      },
+      {
+        "id": "2",
+        "title": "Bread",
+        "slug": "bread",
+        "description": "Nutritious whole wheat bread, baked fresh daily.",
+        "price": 20,
+        "isFeatured": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCLmrbLczmxqeErvY8uhuhtB_SLPMaBf9YZw&s"
+      },
+      {
+        "id": "3",
+        "title": "Almond Milk",
+        "slug": "almond-milk",
+        "description": "Unsweetened almond milk, a great dairy alternative.",
+        "price": 100,
+        "isFeatured": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVLTiizwyI6T07XGOLt0YkAhvXHbu7Q2WtDg&s"
+      },
+      {
+        "id": "4",
+        "title": "Eggs",
+        "slug": "eggs",
+        "description": "A dozen large free-range eggs, rich in flavor.",
+        "price": 180,
+        "isFeatured": true,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkrcjuc_LmiHGHD2_TR-AdmlSyGdmNPf6nA&s"
+      },
+      {
+        "id": "5",
+        "title": "Cake",
+        "slug": "cake",
+        "description": "Soft and fluffy, very tasty to consume.",
+        "price": 50,
+        "isFeatured": true,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/chocolate-cake-index-64b83bce2df26.jpg?crop=0.6668359143606668xw:1xh;center,top&resize=1200:*"
+      }
+    ]
+  }
